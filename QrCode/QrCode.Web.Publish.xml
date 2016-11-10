@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Jim\Desktop\qrcodeaa" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="script/jquery-validate.min.js" publishTime="06/02/2013 11:07:25" />
+    <file relUrl="images/index.png" publishTime="05/31/2013 20:03:24" />
+    <file relUrl="bin/Gma.QrCodeNet.Encoding.dll" publishTime="05/20/2014 14:46:21" />
+    <file relUrl="script/jquery-1.9.0.min.js" publishTime="06/02/2013 11:07:29" />
+    <file relUrl="QrCodeHandler.ashx" publishTime="05/31/2013 19:43:44" />
+    <file relUrl="Web.config" publishTime="05/31/2013 20:06:20" />
+    <file relUrl="bin/QrCode.Web.pdb" publishTime="05/20/2014 14:46:22" />
+    <file relUrl="index.htm" publishTime="06/02/2013 14:33:38" />
+    <file relUrl="bin/QrCode.Web.dll" publishTime="05/20/2014 14:46:22" />
+    <file relUrl="bin/Gma.QrCodeNet.Encoding.xml" publishTime="05/20/2014 14:46:21" />
+    <file relUrl="bin/Gma.QrCodeNet.Encoding.pdb" publishTime="05/20/2014 14:46:21" />
+  </publishProfile>
+</publishData>

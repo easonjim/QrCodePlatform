@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gma.QrCodeNet.Encoding", "Gma.QrCodeNet.Encoder\Gma.QrCodeNet.Encoding.csproj", "{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCode.Web", "QrCode\QrCode.Web.csproj", "{BE73170B-53A8-49DE-ACA1-522765C7C0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE73170B-53A8-49DE-ACA1-522765C7C0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE73170B-53A8-49DE-ACA1-522765C7C0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE73170B-53A8-49DE-ACA1-522765C7C0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE73170B-53A8-49DE-ACA1-522765C7C0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
