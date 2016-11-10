@@ -1,0 +1,2 @@
+# QrCodePlatform
+QrCode
